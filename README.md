@@ -1,1 +1,1 @@
-# udemy-machine-learning-a-z
+# Personal repository with practice files for Machine Learning A-Z
